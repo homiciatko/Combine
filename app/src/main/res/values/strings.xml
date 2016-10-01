@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Combine</string>
+    <string name="titleWrongData">bledne dane logowania</string>
+    <string name="textLackData">Brak wszystkich danych</string>
+    <string name="textWrongData">Blede dane logowania</string>
+    <string name="sadFaceURL">http://images.clipartpanda.com/sad-smiley-face-clipart-yTox7gxTE.gif</string>
+    <string name="happyFaceURl">http://images.clipartpanda.com/smile-clipart-smile-clip-art-66-350x350.jpg</string>
+    <string name="login">a</string>
+    <string name="password">b</string>
+    <string name="displayedTxt">display</string>
+    <string name="startingDisplay">0</string>
+    <string name="additionDisplay">+</string>
+    <string name="subtractionDisplay">-</string>
+    <string name="multiplicationDisplay">*</string>
+    <string name="divisionDisplay">/</string>
+    <string name="scoreDisplay">=</string>
+    <string name="worningMessage">"Sorry, the technology just isn't there yet"</string>
+    <string name="magicNumberHint">1-100</string>
+    <string name="nameProjectHappyFace">HappyFace</string>
+    <string name="nameProjectCalculator">Calculator</string>
+    <string name="nameProjectAnimation">Animation</string>
+    <string name="submitName">Submit</string>
+</resources>
